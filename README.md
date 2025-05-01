@@ -2,7 +2,7 @@
 
 A customizable React component for rendering an interactive SVG map of Sri Lanka's districts.
 
-![Sri Lanka District Map](![alt text](image.png))
+[Sri Lanka District Map](![alt text](image.png))
 
 ## Installation
 
